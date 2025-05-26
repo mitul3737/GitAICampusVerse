@@ -2,10 +2,13 @@
 
 
 
+### How to apply for your university?
+Create an issue [here](https://github.com/mitul3737/GitAICampusVerse/issues) following this [issue](https://github.com/mitul3737/GitAICampusVerse/issues/1)
 
+### What next after the issue?
+Once you create an issue, I will follow up with the issue and keep the conversation on the issue and mail. Once we confirm the funding from GitHub, we will proceed with the event.
 
-
-### Description:
+# Description:
 
 GitAICampusVerse is a one-day event to be organized in a university/college. During the event, students will learn the latest AI features of GitHub, Google, AWS, Microsoft, and Cloud Native Computing Foundation. 
 
@@ -17,7 +20,9 @@ GitAICampusVerse is a one-day event to be organized in a university/college. Dur
 
 **Note:** Depending on the university requirement, the agenda might change.
 
-## Expected number of Audience: 100 - 150 students
+## Expected number of Audience: 
+
+100 - 150 students
 
 
 ## What do we need from the university?
