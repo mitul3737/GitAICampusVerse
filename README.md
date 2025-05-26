@@ -8,6 +8,9 @@ Create an issue [here](https://github.com/mitul3737/GitAICampusVerse/issues) fol
 ### What next after the issue?
 Once you create an issue, I will follow up with the issue and keep the conversation on the issue and mail. Once we confirm the funding from GitHub, we will proceed with the event.
 
+### Want a doc for Faculty Approval?
+Here you [go](https://docs.google.com/document/d/1VdMZNbZlF84DxwzjHvY91NdaW6z2gSxoSY9-9r0fhaE/edit?usp=sharing)
+
 # Description:
 
 GitAICampusVerse is a one-day event to be organized in a university/college. During the event, students will learn the latest AI features of GitHub, Google, AWS, Microsoft, and Cloud Native Computing Foundation. 
@@ -88,6 +91,5 @@ More events are yet  to confirm!!
 **HashiCorp by IBM** - via Dhaka [HashiCorp User Group](https://www.meetup.com/dhaka-hashicorp-user-group/)
 
 ![image](https://github.com/user-attachments/assets/860130ca-ed4e-437c-aa25-d9c7c5112b46)
-
 
 
