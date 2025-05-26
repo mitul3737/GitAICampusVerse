@@ -12,6 +12,10 @@ Once you create an issue, I will follow up with the issue and keep the conversat
 
 GitAICampusVerse is a one-day event to be organized in a university/college. During the event, students will learn the latest AI features of GitHub, Google, AWS, Microsoft, and Cloud Native Computing Foundation. 
 
+## Timeline for the events: 
+
+May 2025 - December 2026
+
 ## Probable agenda:
 - 5 min: Welcome note from the GitHub/Google/AWS/Microsoft Team
 - 2 hours: Talk
@@ -52,10 +56,12 @@ GitAICampusVerse is a one-day event to be organized in a university/college. Dur
 - [HashiCorp Exam vouchers](https://www.hashicorp.com/en/conferences/hashiconf/certifications) (Not guaranteed to each event)
 
 
+# GitAICampusVerse events:
+1. GitAICampusVerse BRAC University - [Date to be fixed]
 
+More events are yet  to confirm!!
 
-
-**Supporting Partners**
+# Supporting Partners
 
 **GitHub** - via GitHub Campus Expert & DevConnect Program
 
