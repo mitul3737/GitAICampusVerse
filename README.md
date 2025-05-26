@@ -6,10 +6,13 @@
 Create an issue [here](https://github.com/mitul3737/GitAICampusVerse/issues) following this [issue](https://github.com/mitul3737/GitAICampusVerse/issues/1)
 
 ### What next after the issue?
-Once you create an issue, I will follow up with the issue and keep the conversation on the issue and mail. Once we confirm the funding from GitHub, we will proceed with the event.
+Once you create an issue by June 30, 2025, I will review the request in July and confirm your event.
+
 
 ### Want a doc for Faculty Approval?
 Here you [go](https://docs.google.com/document/d/1VdMZNbZlF84DxwzjHvY91NdaW6z2gSxoSY9-9r0fhaE/edit?usp=sharing)
+
+
 
 # Description:
 
