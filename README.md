@@ -20,7 +20,7 @@ GitAICampusVerse is a one-day event to be organized in a university/college. Dur
 
 ## Timeline for the events: 
 
-May 2025 - December 2026
+May 2025 - May 2026
 
 ## Probable agenda:
 - 5 min: Welcome note from the GitHub Education Team
