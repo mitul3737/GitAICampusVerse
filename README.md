@@ -1,6 +1,6 @@
 # GitAICampusVerse
 
-
+GitAICampusVerse is a 1.5-hour session focused on GitHub Copilot, GitHub Actions, and GitHub Models.
 
 ### How to apply for your university?
 Create an issue [here](https://github.com/mitul3737/GitAICampusVerse/issues) following this [issue](https://github.com/mitul3737/GitAICampusVerse/issues/1)
