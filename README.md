@@ -14,10 +14,6 @@ Here you [go](https://docs.google.com/document/d/1VdMZNbZlF84DxwzjHvY91NdaW6z2gS
 
 
 
-# Description:
-
-GitAICampusVerse is a one-day event to be organized in a university/college. During the event, students will learn the latest AI features of GitHub, Google, AWS, Microsoft, and Cloud Native Computing Foundation. 
-
 ## Timeline for the events: 
 
 May 2025 - May 2026
