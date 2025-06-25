@@ -37,7 +37,10 @@ May 2025 - May 2026
 - If the university wants a hands-on session, we will require a university lab. 
 
 
-
+# Speaker 
+MD Shahriyar Al Mustakim Mitul
+GitHub Campus Expert
+Organizer, Dhaka GitHub User Group
 
 ## What will GitHub provide?
 
