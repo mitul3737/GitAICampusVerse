@@ -60,31 +60,16 @@ Organizer, Dhaka GitHub User Group
 # GitAICampusVerse events:
 **Here is the list of events we have confirmed with the probable month and year.**
 1. July 2025 — GitAICampusVerse BRACU - Done  ✅
-
-2. August 2025 — GitAICampusVerse AUST - On Going
-
+2. August 2025 — GitAICampusVerse AUST - Done  ✅
 3. September 2025 — GitAICampusVerse IIUC - On Going
-
-4. October 2025 — GitAICampusVerse BUET
-
-5. November 2025 — GitAICampusVerse AIUB 
-
-6. December 2025 — GitAICampusVerse DIU
-
-7. January 2026—GitAICampusVerse, East West University
+4. November 2025 — GitAICampusVerse Green University
+5. January 2025 — GitAICampusVerse AIUB 
+6. January 2026 — GitAICampusVerse, East West University
+7. March 2026 — GitAICampusVerse University of Information Technology and Sciences
+8. May 2026 — GitAICampusVerse Independent University, Bangladesh (IUB)
+9.  July 2026 — GitAICampusVerse IUT/JU/JnU/BUET
 
 
-8. February 2026—GitAICampusVerse Green University
-
-9. March 2026—GitAICampusVerse University of Information Technology and Sciences
-
-10. April 2026—GitAICampusVerse Chittagong Independent University ( CIU )
-
-11. May 2026—GitAICampusVerse Jagannath University (JnU)
-
-12. June 2026—GitAICampusVerse Independent University, Bangladesh (IUB)
-
-More events are yet  to confirm!!
 
 # Supporting Partners
 
