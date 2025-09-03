@@ -64,10 +64,10 @@ Organizer, Dhaka GitHub User Group
 3. September 2025 — GitAICampusVerse IIUC - On Going
 4. November 2025 — GitAICampusVerse Green University
 5. January 2025 — GitAICampusVerse AIUB 
-6. January 2026 — GitAICampusVerse, East West University
-7. March 2026 — GitAICampusVerse United International University (UIU)
-8. May 2026 — GitAICampusVerse DIU
-9.  July 2026 — GitAICampusVerse - ??
+6. March 2026 — GitAICampusVerse, East West University
+7. May 2026 — GitAICampusVerse United International University (UIU)
+8. July 2026 — GitAICampusVerse DIU
+
 
 
 
