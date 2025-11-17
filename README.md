@@ -66,7 +66,7 @@ Organizer, Dhaka GitHub User Group
 5. January 2026 — GitAICampusVerse DIU 
 6. March 2026 — GitAICampusVerse, AIUB
 7. May 2026 — GitAICampusVerse United International University (UIU)
-8. July 2026 — GitAICampusVerse <Open for any university?
+8. July 2026 — GitAICampusVerse (Open for any university)
 
 
 
