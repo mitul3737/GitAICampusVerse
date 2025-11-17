@@ -62,18 +62,29 @@ Organizer, Dhaka GitHub User Group
 1. July 2025 — GitAICampusVerse BRACU - Done  ✅
 2. August 2025 — GitAICampusVerse AUST - Done  ✅
 3. September 2025 — GitAICampusVerse IIUC - Done  ✅
-4. November 2025 — GitAICampusVerse Green University - On going 
+4. November 2025 — GitAICampusVerse Green University - Ongoing 
 5. January 2026 — GitAICampusVerse DIU 
 6. March 2026 — GitAICampusVerse, AIUB
 7. May 2026 — GitAICampusVerse United International University (UIU)
 8. July 2026 — GitAICampusVerse (Open for any university)
 
 
-
+## Photo Directory
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/f5e8d3b2-6402-45d6-a16b-6184cd6bd91d" width="30%">
+  <img src="https://github.com/user-attachments/assets/da3d7cd2-432b-4d39-9964-6073dbbbe03a" width="30%">
+  <img src="https://github.com/user-attachments/assets/90a58d9a-70c6-4853-9157-3f7a6f538ac2" width="30%">
+  <img src="https://github.com/user-attachments/assets/0a4a2357-77a1-404d-8459-e3559953c926" width="30%">
+  <img src="https://github.com/user-attachments/assets/3aefe7d2-d5af-42d1-833a-0261ef6b3258" width="30%">
+  <img src="https://github.com/user-attachments/assets/81de3ecd-b0e2-43d4-882d-e7a303be30aa" width="30%">
+  <img src="https://github.com/user-attachments/assets/6c4e4586-74c5-4256-b209-14abc2df5531" width="30%">
+  <img src="https://github.com/user-attachments/assets/dd8a9177-622d-4429-b564-4ea526bb4ded" width="30%">
+  <img src="https://github.com/user-attachments/assets/9fa49744-f8fc-4284-8fc8-e0b61d1f9802" width="30%">
+</div>
 
 # Supporting Partners
 
-**GitHub** - via GitHub Campus Expert & DevConnect Program
+**GitHub** - via GitHub Campus Expert Program
 
 ![image](https://github.com/user-attachments/assets/cfe317a1-8306-4aca-aaff-a2e7cb58fa01)
  
