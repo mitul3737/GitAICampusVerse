@@ -63,8 +63,8 @@ Organizer, Dhaka GitHub User Group
 2. August 2025 — GitAICampusVerse AUST - Done  ✅
 3. September 2025 — GitAICampusVerse IIUC - Done  ✅
 4. November 2025 — GitAICampusVerse Green University - Ongoing 
-5. January 2026 — GitAICampusVerse DIU 
-6. March 2026 — GitAICampusVerse, AIUB
+5. January 2026 — Hack Club Event Cumilla
+6. March 2026 — GitAICampusVerse, DIU
 7. May 2026 — GitAICampusVerse United International University (UIU)
 8. July 2026 — GitAICampusVerse (Open for any university)
 
