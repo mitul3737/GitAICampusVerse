@@ -1,11 +1,11 @@
-# GitAICampusVerse
+# GitAICampusVerse (This program is closed now)
 
 GitAICampusVerse is a 1.5-hour session focused on GitHub Copilot, GitHub Actions, and GitHub Models.
 
-### How to apply for your university?
+### How to apply to your university?
 Create an issue [here](https://github.com/mitul3737/GitAICampusVerse/issues) following this [issue](https://github.com/mitul3737/GitAICampusVerse/issues/1)
 
-### What next after the issue?
+### What's next after the issue?
 Once you create an issue by June 30, 2025, I will review the request in July and confirm your event.
 
 
